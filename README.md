@@ -24,3 +24,9 @@
 <h2>Hobbies</h2>
 
 ![p8](https://github.com/HaducaLucky/Portfolio-HaducaLucky/assets/147017329/5d6161e9-7e28-4431-a6a5-b2b4543b9571)
+![p9](https://github.com/HaducaLucky/Portfolio-HaducaLucky/assets/147017329/c74cf03d-d227-4a93-9425-ec2a5ab562e4)
+
+<h2>Contact Me</h2>
+
+![p10](https://github.com/HaducaLucky/Portfolio-HaducaLucky/assets/147017329/d047ed30-619f-4533-bdab-efe90773671a)
+![p11](https://github.com/HaducaLucky/Portfolio-HaducaLucky/assets/147017329/65cda9bf-b982-44bc-88a7-edcd4b2a7de0)
